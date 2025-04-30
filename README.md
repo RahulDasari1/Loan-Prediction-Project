@@ -1,5 +1,4 @@
-
-# Loan Prediction Project
+# Loan Prediction using GenAI Project
 
 Welcome to the Loan Prediction Project repository! This project focuses on predicting loan approval using machine learning techniques, Big Data, AI, and Android development. Below is an overview of the dataset, Python files, and expected output.
 
