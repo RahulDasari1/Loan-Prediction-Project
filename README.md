@@ -6,14 +6,14 @@ Welcome to the Loan Prediction Project repository! This project focuses on predi
 
 The dataset used in this project is included in the `/data` directory. It consists of historical data with various attributes related to loan applications. The dataset is divided into training and testing sets, allowing for robust model training and evaluation.
 
-[DataSet](https://github.com/KhushalKhare/Loan-Prediction/blob/main/Loan-Prediction.csv): Contains data used to train machine learning models
+[DataSet](https://github.com/RahulDasari1/Loan-Prediction-Project/blob/main/Loan-Prediction.csv): Contains data used to train machine learning models
 
 Feel free to explore the datasets and refer to the project documentation for a detailed description of each attribute.
 
 ## Python Files
 
-[Jupyter Notebook](https://github.com/KhushalKhare/Loan-Prediction/blob/main/Loan%20Prediction.ipynb)
-[ML Tool](https://github.com/KhushalKhare/Loan-Prediction/blob/main/MLTools.py)
+[Jupyter Notebook](https://github.com/RahulDasari1/Loan-Prediction-Project/blob/main/Loan%20Prediction.ipynb)
+[ML Tool](https://github.com/RahulDasari1/Loan-Prediction-Project/blob/main/MLTools.py)
 
 Explore these files to gain insights into the project's implementation.
 
@@ -52,3 +52,7 @@ The findings of this study have significant implications for the financial indus
 ● Optimise resource allocation and streamline loan processing operations
 
 This study demonstrates the effectiveness of machine learning in accurately predicting loan repayment behaviours. The developed model can be readily integrated into lending platforms to automate loan approval decisions and enhance risk assessment capabilities. Financial institutions can leverage these advancements to make informed lending decisions, improve customer experience, and strengthen their financial footing.
+
+Happy Coding 
+-Rahul Dasari
+
